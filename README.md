@@ -3,4 +3,6 @@ ls
 csh
 pwd
 cd
+rm
+mkdir
 
